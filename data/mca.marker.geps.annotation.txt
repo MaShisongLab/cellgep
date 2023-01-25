@@ -1,0 +1,115 @@
+GEP	Annotation
+M001	oligodendrocyte
+M002	stromal cell
+M003	T cell
+M004	proximal tubule brush border cell
+M005	testicular cell
+M006	astrocyte
+M007	neuron
+M008	endothelia cell
+M009	urothelium
+M010	chondrocyte
+M011	stromal cell
+M012	erythroblast
+M013	primordial germ cell
+M014	intestinal epithelial cell
+M015	mESC
+M016	macrophage/microglia
+M017	ciliated cell/ependymal cell
+M020	B cell
+M021	smooth muscle cell
+M023	testicular cell
+M024	ductal cell
+M025	macrophage
+M026	3T3 cell
+M027	sertoli cell/granulosa cell
+M028	cardiac muscle cell
+M030	NKT cell
+M031	prostate gland cell
+M032	dendritic cell
+M033	intestinal epithelial cell
+M036	trophoblast progenitor cell
+M038	trophoblast stem cell
+M039	luteal cell
+M040	osteoblast
+M041	neutrophil
+M042	plasma cell
+M043	mononcyte
+M044	renal tubular cell
+M045	intercalated cells of collecting duct
+M046	adipocyte
+M047	principal cells of cortical collecting duct
+M048	endothelial cell of hepatic sinusoid
+M049	hepatocyte
+M050	premeiotic germ cell
+M051	alveolar type II cell
+M052	cumulus cell
+M054	proliferative neuron
+M056	gastric mucosa cell
+M057	proximal tubule brush border cell
+M058	erythroid progenitor 
+M059	epithelial cell
+M060	placenta endodermal cell
+M061	oligodendrocyte precursor cell
+M062	stomach epithelial cell
+M063	hepatocyte
+M064	beta cell
+M065	granulocyte monocyte progenitor cell
+M066	myocyte
+M067	choroid plexus cell
+M068	neutrophil
+M071	alveolar type I cell
+M073	mast cell
+M075	T cell
+M076	trophoblast progenitor cell
+M078	spongiotrophoblast
+M080	mammary gland T cell/epithelil cell
+M081	neuron
+M082	muscle cell
+M083	NK cell
+M084	leydig cell
+M085	gastric mucosa cell
+M086	dendritic cell
+M087	intestinal epithelial cell
+M088	intestinal epithelial cell
+M089	endothelial cell
+M091	trophoblast progenitor cell
+M092	clara cell
+M093	Schwann cell
+M094	macrophage
+M096	neuron
+M097	secretory alveoli cell
+M099	pancreatic acinar cell
+M100	stromal cell
+M101	regulatory T cell
+M102	neuron
+M103	proliferative neuron
+M104	mast cell
+M105	neuron
+M106	megakaryocyte
+M108	acinar cell
+M110	stromal cell
+M111	testicular cell
+M112	eosinophil
+M113	stromal cell
+M114	stromal cell
+M115	testicular cell
+M116	testicular cell
+M117	epithelial cell
+M118	endocrine cell
+M119	testicular cell
+M120	testicular cell
+M122	testicular cell
+M123	testicular cell
+M124	testicular cell
+M125	testicular cell
+M126	testicular cell
+M127	endocrine cell
+M128	testicular cell
+M129	testicular cell
+M130	intestinal epithelial cell
+M131	testicular cell
+M132	endothelial cell
+M133	T cell
+M135	testicular cell
+M136	endocrine cell
