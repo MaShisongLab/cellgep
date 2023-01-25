@@ -15,7 +15,7 @@ This algorithm works in R. It depends on the R packages [`Seurat`](https://satij
 
 ## Usage
 
-The CellGEP algorithm uses marker GEPs identified in a reference dataset(s) to annotate cells in a novel single-cell dataset. We provide a list of marker GEPs as an example, which we identified from a mouse MCA dataset via scGGM ([Han *et al*, 2018; Xu *et al*, 2023](#Refrerences)). The GEPs are saved in the file 'data/mca.marker.geps.txt'. Below list the steps to use CellGEP to annotate a novel dataset.
+The CellGEP algorithm uses marker GEPs identified in a reference dataset(s) to annotate cells in a novel single-cell dataset. We provide a list of marker GEPs as an example, which we identified from a mouse MCA dataset via scGGM ([Han *et al*, 2018](#References); [Xu *et al*, 2023](#References)). The GEPs are saved in the file 'data/mca.marker.geps.txt'. Below list the steps to use CellGEP to annotate a novel dataset.
 
 ### 1. Identify neighboring cells from the novel dataset.
 
