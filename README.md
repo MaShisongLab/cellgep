@@ -2,7 +2,7 @@
 
 **An algorithm for transferring cell-type labels across single-cell datasets**
 
-<b>CellGEP</b> (<u>Cel</u>l <u>l</u>abeling via <u>G</u>ene <u>E</u>xpression <u>P</u>rograms) is an algorithm for transferring cell-type label across single-cell datasets. Cell-type specific marker GEPs are first identified via single-cell gene co-expression network analysis via [scGGM](https://github.com/MaShisongLab/scggm) in a reference dataset(s). The identified marker GEPs can then be used to label and annotate a novel dataset for their cell types. For more details please refer to [Xu *et al*, 2023](#References). 
+<b>CellGEP</b> (<u>Cel</u>l <u>l</u>abeling via <u>G</u>ene <u>E</u>xpression <u>P</u>rograms) is an algorithm for transferring cell-type label across single-cell datasets. Cell-type specific marker GEPs are first identified via single-cell gene co-expression network analysis via [SingleCellGGM](https://github.com/MaShisongLab/SingleCellGGM) in a reference dataset(s). The identified marker GEPs can then be used to label and annotate a novel dataset for their cell types. For more details please refer to [Xu *et al*, 2023](#References). 
 
 ## Table of Contents
 - [Install](#Install)
@@ -15,7 +15,7 @@ This algorithm works in R. It depends on the R packages [`Seurat`](https://satij
 
 ## Usage
 
-The CellGEP algorithm uses marker GEPs identified in a reference dataset(s) to annotate cells in a novel single-cell dataset. We provide a list of marker GEPs as an example, which we identified from a mouse MCA dataset via scGGM ([Han *et al*, 2018](#References); [Xu *et al*, 2023](#References)). The GEPs are saved in the file 'data/mca.marker.geps.txt'. Below list the steps to use CellGEP to annotate a novel dataset.
+The CellGEP algorithm uses marker GEPs identified in a reference dataset(s) to annotate cells in a novel single-cell dataset. We provide a list of marker GEPs as an example, which we identified from a mouse MCA dataset via SingleCellGGM ([Han *et al*, 2018](#References); [Xu *et al*, 2023](#References)). The GEPs are saved in the file 'data/mca.marker.geps.txt'. Below list the steps to use CellGEP to annotate a novel dataset.
 
 ### 1. Identify neighboring cells from the novel dataset.
 
