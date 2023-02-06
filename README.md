@@ -98,4 +98,4 @@ DimPlot(sc_object, group.by = 'marker_gep', label = T)
 
 Han X, Wang R, Zhou Y, Fei L, Sun H, Lai S, Saadatpour A, Zhou Z, Chen H, Ye F, Huang D, Xu Y, Huang W, Jiang M, Jiang X, Mao J, Chen Y, Lu C, Xie J, Fang Q, Wang Y, Yue R, Li T, Huang H, Orkin SH, Yuan GC, Chen M, and Guo G. 2018. Mapping the Mouse Cell Atlas by Microwell-Seq. *Cell* 172: 1091-1107.
 
-Xu Y, Wang Y, and Ma S. 2023. scGGM identifies gene expression programs from single-cell transcriptomes and facilitates universal cell label transfer. *submitted*
+Xu Y, Wang Y, and Ma S. 2023. SinlgleCellGGM enables gene expression program identification from single-cell transcriptomes and facilitates universal cell label transfer. *submitted*
